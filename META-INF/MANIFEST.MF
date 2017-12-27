@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: commons-logging-1.1.1.jar javax.servlet-api-3.1.0.jar tomc
+ at-embed-core-8.0.36.jar commons-beanutils-1.9.2.jar commons-collecti
+ ons-3.2.1.jar
+Main-Class: TimerUtils
+

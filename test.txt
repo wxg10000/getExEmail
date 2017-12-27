@@ -1,0 +1,3 @@
+[qq_email]
+e_mail=wangxiangui@datahunter.cn
+password=887815Zwm
